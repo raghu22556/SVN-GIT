@@ -1,0 +1,42 @@
+id: 0-6.0.r6/0
+type: file
+count: 0
+text: 2 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-5/_2
+cpath: /Test2.txt
+copyroot: 0 /
+
+PLAIN
+K 9
+Test1.txt
+V 16
+file 0-2.0.r2/17
+K 9
+Test2.txt
+V 15
+file 0-6.0.r6/0
+K 8
+branches
+V 16
+dir 2-1.0.r5/187
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r6/348
+type: dir
+pred: 0.0.r5/480
+count: 6
+text: 6 163 172 172 79a9dea8cc8ba1620e108566c76ecb85 - -
+cpath: /
+copyroot: 0 /
+
+_0.0.t5-5 add-file true false false /Test2.txt
+
+
+348 480

@@ -1,0 +1,39 @@
+id: 0.0-3.r3/0
+type: dir
+pred: 0.0.r2/792
+count: 3
+text: 2 680 99 99 c8c137a52dbfc9c6bfd81fcf2a185d26 - -
+cpath: /TestingRepo
+copyfrom: 2 /
+
+PLAIN
+K 11
+TestingRepo
+V 14
+dir 0.0-3.r3/0
+K 8
+branches
+V 14
+dir 2-1.0.r1/0
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r2/541
+END
+ENDREP
+id: 0.0.r3/290
+type: dir
+pred: 0.0.r2/792
+count: 3
+text: 3 141 136 136 fca472726460556d6089d61a56faa31e - -
+cpath: /
+copyroot: 0 /
+
+0._0.t2-4 add-dir false false false /TestingRepo
+2 /
+
+290 422
